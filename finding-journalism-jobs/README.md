@@ -4,7 +4,7 @@ I'd recommend using it with Jupyter Notebook instead of Terminal/Command Prompt 
 
 Extra things used:
 
-- Pandas
+- pandas
 - BeautifulSoup
 - matplotlib
 - webbrowser
